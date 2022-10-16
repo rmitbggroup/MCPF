@@ -1,0 +1,8 @@
+1. Environment Preparation
+(1) JAVA 1.8
+
+2. Run Test
+(1) The 'Main.java' contains the main function. In the main function, all baselines, HFBG1, HFBG2, and HFBG3, will be invoked.
+(2) 'startParRatio' and 'endParRatio' variables control the range of rho.
+(3) 'ratio' variable controls tau.
+(4) The fold 'MCPF/Data/' stores all datasets.
